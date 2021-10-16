@@ -1,2 +1,6 @@
 # LP_test_repo
-Our first github repository
+## How to run code
+* ```python
+  python first.py
+  ```
+* Enjoy!
