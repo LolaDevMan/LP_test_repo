@@ -1,4 +1,13 @@
 # List of participants
 * Alwin Joseph
-* Neha 
+* Neha
+* SSA
+* Siddharth Vivek Kamath
+* Raunaq Bhogal
+* Devika S
+* Thanushree R
+* Gagana
+* Niranjan Ithal
+* Anusha Naik
+* purvik
 * Sankalp Kumar
