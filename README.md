@@ -13,3 +13,4 @@
 * Sankalp Kumar
 * Rahul R
 * Srividya Prasad
+* Rachitha Suresh
