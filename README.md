@@ -14,8 +14,5 @@
 * Rahul R
 * Srividya Prasad
 * Rachitha Suresh
->>>>>>> HEAD
 * Shreesh 
-=======
->>>>>>> 037683f61e6edd8714d69edd2af7ff9e441e3997
 * Sushaen
