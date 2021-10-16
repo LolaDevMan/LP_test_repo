@@ -1,5 +1,6 @@
 # List of participants
 * Alwin Joseph
+
 * Neha
 * SSA
 * Siddharth Vivek Kamath
@@ -7,3 +8,4 @@
 * Devika S
 * Thanushree R
 * Gagana
+* Niranjan Ithal
