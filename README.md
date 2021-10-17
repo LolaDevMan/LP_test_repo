@@ -18,4 +18,4 @@
 * Sushaen
 * Sarvesh Sudhan P (ill take up SSP and not SSA...lol )
 * Chaitra N 
-* D Adarsha Bhat
+* Adarsha
