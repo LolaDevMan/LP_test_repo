@@ -19,9 +19,5 @@
 * Sarvesh Sudhan P (ill take up SSP and not SSA...lol )
 * Chaitra N 
 * Vismaya.R
-<<<<<<< HEAD
 * Vikyath.B
-=======
-* Vikyath
->>>>>>> 1225ddd172f0f00dbf6215779703a26146c60d3b
-
+* D Adarsha Bhat
