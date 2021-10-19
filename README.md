@@ -21,4 +21,5 @@
 * Vismaya.R
 * Vikyath.B
 * D Adarsha Bhat
+* Amogh N Rao
 * Vikyath.B
