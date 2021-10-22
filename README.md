@@ -23,3 +23,4 @@
 * D Adarsha Bhat
 * Amogh N Rao
 * Vikyath.B
+* Vidya K
